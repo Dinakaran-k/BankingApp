@@ -20,6 +20,9 @@ BankingApp is a comprehensive banking application that provides users with vario
   - Android Studio
   - Gradle
 
+## Git Diagram
+![BankingAppdiagram](https://github.com/user-attachments/assets/0b1814fe-5d4d-4086-aaae-926db68666ae)
+
 
 ## Getting Started
 
