@@ -1,4 +1,4 @@
-package com.dinakaran.bankApp
+package com.dinakaran.bankApp.screens
 
 import androidx.compose.animation.animateContentSize
 import androidx.compose.foundation.background

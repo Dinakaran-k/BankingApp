@@ -1,4 +1,4 @@
-package com.dinakaran.bankApp
+package com.dinakaran.bankApp.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -10,9 +10,9 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.rounded.StarHalf
 import androidx.compose.material.icons.rounded.Analytics
 import androidx.compose.material.icons.rounded.MonetizationOn
-import androidx.compose.material.icons.rounded.StarHalf
 import androidx.compose.material.icons.rounded.Wallet
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
@@ -34,7 +34,7 @@ import com.dinakaran.bankApp.ui.theme.PurpleStart
 
 val financeList = listOf(
     Finance(
-        icon = Icons.Rounded.StarHalf,
+        icon = Icons.AutoMirrored.Rounded.StarHalf,
         name = "My\nBusiness",
         background = OrangeStart
     ),
